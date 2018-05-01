@@ -1,0 +1,11 @@
+{
+  "name": "cit381-db-node",
+  "version": "1.0.0",
+  "description": "CIT 381 database application using Node",
+  "main": "db.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Phil Colbert",
+  "license": "ISC"
+}
